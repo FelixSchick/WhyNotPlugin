@@ -1,0 +1,16 @@
+name: WhynotPlugin
+version: ${project.version}
+main: de.illegalacces.whynot.Whynot
+api-version: 1.17
+commands:
+  YouAreaLoser:
+  TheGod:
+  nickname:
+    aliases: [nick]
+  realname:
+    aliases: [rn]
+  oneheart:
+  unicorn:
+    description: '§fI´m a unicorn.'
+  invrestore:
+    aliases: [ir]
